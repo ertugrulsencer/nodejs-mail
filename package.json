@@ -1,0 +1,15 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ertuğrul Sencer",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nodemailer": "^6.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "serve": "nodemon index.js"
+  }
+}
